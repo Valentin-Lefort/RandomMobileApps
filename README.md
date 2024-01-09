@@ -4,9 +4,9 @@ Cette application est un générateur de chiffres aléatoires pour Android. Elle
 
 ## Captures d'écran
 
-<center>
+<div align="center">
 <img src="app%2Fsrc%2Fmain%2Fres%2Fdrawable%2Fscreen1.jpg" alt="screen1" width="200"/> <img src="app%2Fsrc%2Fmain%2Fres%2Fdrawable%2Fscreen2.jpg" alt="screen2" width="200"/>
-</center>
+</div>
 
 ## Fonctionnalités
 
